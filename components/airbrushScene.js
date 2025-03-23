@@ -134,6 +134,9 @@ if (!heroCanvas) {
     }
   }
 
+
+
+  
   loadModel();
 
   scene.createDefaultEnvironment({

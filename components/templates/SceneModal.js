@@ -10,7 +10,7 @@ export default function createSceneModal() {
   const modal = document.createElement("div");
   modal.classList.add(
     "bg-gray-900", "text-white", "p-6", "rounded-xl", "shadow-2xl",
-    "w-[600px]", "h-[400px]", "relative", "border", "border-gray-700",
+    "w-full", "h-full", "relative", "border", "border-gray-700",
     "transform", "transition-all", "duration-300", "scale-95", "flex", "flex-col"
   );
 

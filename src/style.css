@@ -87,3 +87,10 @@ h1 {
   padding: 20px;
   margin: 12px;
 }
+#sceneCanvas {
+  width: 100%; /* Matches w-full */
+  flex-grow: 1; /* Matches flex-grow */
+  background: radial-gradient(circle at center, 
+    rgb(197, 211, 224) 0%, 
+    rgba(180, 180, 180, 1) 100%);
+}

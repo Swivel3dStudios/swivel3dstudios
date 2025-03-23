@@ -5,7 +5,7 @@ export const cardData = [
     imageUrl: '/public/images/hq720.jpg',
     menu: [
       { title: 'Configurator', nuScene: '/components/scenes/configurator.js' },
-      { title: 'Billboard Annotation', nuScene:'/components/scenes/stubbs3D.js' }
+      { title: 'Billboard Annotation', nuScene:'/components/scenes/configurator2.js' }
     ]
   },
   {
